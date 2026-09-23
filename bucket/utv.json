@@ -3,6 +3,7 @@
     "description": "Lightweight and distributable framecycler and sequence viewer for VFX, animation, and digital media",
     "homepage": "https://github.com/OpenUTV/utv",
     "license": "Apache-2.0",
+    "depends": "openutv-dependencies",
     "architecture": {
         "64bit": {
             "url": "https://github.com/OpenUTV/utv/releases/download/2026.7/UTV-2026.7-windows-x64.zip",
